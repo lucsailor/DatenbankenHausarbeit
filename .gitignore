@@ -2,4 +2,4 @@ venv/
 __pycache__/
 .DS_Store
 *.pyc
-.envpip freeze > requirements.txt
+.env
