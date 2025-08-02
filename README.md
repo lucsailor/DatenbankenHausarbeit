@@ -1,4 +1,4 @@
-# StreamliteApp
+# StreamlitApp
 BITTE AUSSCHLIEßLICH IM LIGHT MODE BENUTZEN!!!
 
 Dieses Projekt ist eine interaktive Streamlit Anwendung zur Analyse der Top-5 Fußballligen Europas. Die Daten stammen aus einer SQLite-Datenbank und werden in übersichtlichen Tabellen und Grafiken aufbereitet. Sie ist über: https://hausarbeitwwi23scb.streamlit.app erreichbar.
