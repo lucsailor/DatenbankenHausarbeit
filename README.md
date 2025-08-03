@@ -12,8 +12,8 @@ Dieses Projekt ist eine interaktive Streamlit Anwendung zur Analyse der Top-5 Fu
 ## Installation
 1. Repository klonen:
    ```bash
-   git clone <repo-url>
-   cd StreamlitApp
+   git clone https://github.com/lucsailor/DatenbankenHausarbeit.git
+   cd DatenbankenHausarbeit
    ```
 2. Abhängigkeiten installieren (optional in einer virtuellen Umgebung):
    ```bash
